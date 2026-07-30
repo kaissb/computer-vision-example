@@ -1,0 +1,1181 @@
+[
+  {
+    "page": 0,
+    "route": "text_layer",
+    "char_count": 1251,
+    "page_size": [
+      1224.0,
+      792.0
+    ],
+    "span_count": 97,
+    "rotation_summary": {
+      "0.0": 97
+    },
+    "spans": [
+      {
+        "text": ".75",
+        "bbox": [
+          144.22,
+          614.54,
+          163.67,
+          628.19
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "4.00",
+        "bbox": [
+          321.29,
+          639.66,
+          346.29,
+          653.31
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "2.500±.002",
+        "bbox": [
+          315.0,
+          614.54,
+          370.49,
+          628.19
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "1.00",
+        "bbox": [
+          503.14,
+          551.78,
+          528.14,
+          565.43
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "2.00",
+        "bbox": [
+          558.23,
+          523.77,
+          583.23,
+          537.42
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "R.25 TYP",
+        "bbox": [
+          118.51,
+          428.31,
+          167.4,
+          441.96
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": ".500 THRU",
+        "bbox": [
+          491.6,
+          414.28,
+          544.38,
+          427.93
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "1/4-20 UNC - 2B",
+        "bbox": [
+          298.2,
+          413.81,
+          377.64,
+          427.46
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "0.50",
+        "bbox": [
+          387.71,
+          413.8,
+          409.93,
+          427.45
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "1.00",
+        "bbox": [
+          772.57,
+          413.84,
+          797.57,
+          427.49
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "NOTES:",
+        "bbox": [
+          48.13,
+          89.26,
+          85.35,
+          102.91
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "INTERPRET DIMENSIONING AND TOLERANCING PER ASME Y14.5-2018.",
+        "bbox": [
+          76.48,
+          114.93,
+          420.92,
+          128.58
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "1.",
+        "bbox": [
+          48.13,
+          114.93,
+          56.46,
+          128.58
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "REFERENCE TITLE BLOCK FOR MATERIAL AND FINISH.",
+        "bbox": [
+          76.48,
+          127.76,
+          343.7,
+          141.41
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "2.",
+        "bbox": [
+          48.13,
+          127.76,
+          56.46,
+          141.41
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "MINIMUM SURFACE FINISH OF",
+        "bbox": [
+          76.48,
+          152.99,
+          227.03,
+          166.64
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "125",
+        "bbox": [
+          228.04,
+          139.94,
+          244.7,
+          153.59
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "UNLESS OTHERWISE SPECIFIED",
+        "bbox": [
+          251.91,
+          152.99,
+          413.57,
+          166.64
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "3.",
+        "bbox": [
+          48.13,
+          152.99,
+          56.46,
+          166.64
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "DIMENSIONS NOTED WITH A",
+        "bbox": [
+          76.48,
+          165.82,
+          218.14,
+          179.47
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "REQUIRE SUPPLIER INSPECTION PER CUSTOMER",
+        "bbox": [
+          242.74,
+          165.83,
+          490.51,
+          179.48
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "4.",
+        "bbox": [
+          48.13,
+          165.83,
+          56.46,
+          179.48
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "APPROVED SAMPLING PLAN. CERTIFICATE OF COMPLIANCE REQUIRED WITH EACH PART",
+        "bbox": [
+          76.48,
+          178.66,
+          518.7,
+          192.31
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "SHIPMENT",
+        "bbox": [
+          76.48,
+          191.49,
+          128.14,
+          205.14
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "MATERIAL CERTIFICATION REQUIRED WITH EACH PART SHIPMENT",
+        "bbox": [
+          76.48,
+          204.32,
+          404.25,
+          217.97
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "5.",
+        "bbox": [
+          48.13,
+          204.32,
+          56.46,
+          217.97
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "BAG AND TAG PARTS FOR SHIPMENT (QTY 10 PER BAG)",
+        "bbox": [
+          76.48,
+          217.15,
+          350.36,
+          230.8
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "6.",
+        "bbox": [
+          48.13,
+          217.15,
+          56.46,
+          230.8
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "REVISIONS",
+        "bbox": [
+          904.21,
+          29.3,
+          958.65,
+          42.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "ZONE",
+        "bbox": [
+          687.22,
+          47.3,
+          714.99,
+          60.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "REV.",
+        "bbox": [
+          740.6,
+          47.3,
+          763.93,
+          60.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "DESCRIPTION",
+        "bbox": [
+          869.02,
+          47.3,
+          937.35,
+          60.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "DATE",
+        "bbox": [
+          1059.19,
+          47.3,
+          1085.85,
+          60.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "APPROVED",
+        "bbox": [
+          1124.15,
+          47.3,
+          1179.7,
+          60.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "A",
+        "bbox": [
+          748.93,
+          68.4,
+          755.59,
+          82.05
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "INITIAL RELEASE",
+        "bbox": [
+          861.79,
+          68.4,
+          944.56,
+          82.05
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "11/20/21",
+        "bbox": [
+          1053.08,
+          68.4,
+          1091.96,
+          82.05
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "ECM",
+        "bbox": [
+          1140.82,
+          68.4,
+          1163.04,
+          82.05
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 10.0
+      },
+      {
+        "text": "6061-T6 ALUMINUM",
+        "bbox": [
+          744.66,
+          716.39,
+          835.73,
+          730.04
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 9.9
+      },
+      {
+        "text": "EXAMPLE",
+        "bbox": [
+          1050.72,
+          688.86,
+          1115.68,
+          707.97
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 13.9
+      },
+      {
+        "text": "1",
+        "bbox": [
+          1179.67,
+          726.58,
+          1186.94,
+          745.69
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 13.5
+      },
+      {
+        "text": "113FR",
+        "bbox": [
+          1062.98,
+          726.58,
+          1103.42,
+          745.69
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 13.7
+      },
+      {
+        "text": "SHEET 1 OF 1",
+        "bbox": [
+          1123.75,
+          748.61,
+          1188.01,
+          762.11
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 9.8
+      },
+      {
+        "text": "11/17/2021",
+        "bbox": [
+          924.7,
+          672.07,
+          958.38,
+          681.62
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 6.9
+      },
+      {
+        "text": "11/18/2021",
+        "bbox": [
+          924.69,
+          690.46,
+          958.38,
+          700.01
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 6.9
+      },
+      {
+        "text": "11/20/2021",
+        "bbox": [
+          924.6,
+          708.41,
+          958.47,
+          717.96
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 6.9
+      },
+      {
+        "text": "ECM",
+        "bbox": [
+          880.1,
+          708.41,
+          895.33,
+          717.96
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 6.9
+      },
+      {
+        "text": "SJH",
+        "bbox": [
+          881.26,
+          690.46,
+          894.16,
+          700.01
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 6.9
+      },
+      {
+        "text": "MAC",
+        "bbox": [
+          880.03,
+          672.07,
+          895.38,
+          681.62
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "SCALE: 1:1",
+        "bbox": [
+          967.55,
+          748.69,
+          1017.56,
+          762.19
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 9.7
+      },
+      {
+        "text": "WEIGHT: 0.75 lb",
+        "bbox": [
+          1031.73,
+          748.61,
+          1104.6,
+          762.11
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 9.8
+      },
+      {
+        "text": "B",
+        "bbox": [
+          972.05,
+          726.59,
+          981.17,
+          745.7
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 13.8
+      },
+      {
+        "text": "AS-MACHINED",
+        "bbox": [
+          755.93,
+          739.12,
+          824.47,
+          752.77
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 9.9
+      },
+      {
+        "text": "FAST RADIUS PROPRIETARY INFORMATION",
+        "bbox": [
+          30.31,
+          28.14,
+          199.93,
+          39.6
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial,Bold",
+        "size": 7.9
+      },
+      {
+        "text": "THE INFORMATION CONTAINED IN THIS DRAWING IS THE",
+        "bbox": [
+          30.31,
+          41.96,
+          250.89,
+          52.88
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.9
+      },
+      {
+        "text": "SOLE PROPERTY OF FAST RADIUS. ANY REPRODUCTION",
+        "bbox": [
+          30.31,
+          49.96,
+          252.51,
+          60.88
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.9
+      },
+      {
+        "text": "IN PART OR AS A WHOLE WITHOUT THE WRITTEN",
+        "bbox": [
+          30.31,
+          57.96,
+          223.64,
+          68.88
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.9
+      },
+      {
+        "text": "PERMISSION OF FAST RADIUS IS PROHIBITED.",
+        "bbox": [
+          30.31,
+          65.96,
+          207.9,
+          76.88
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.9
+      },
+      {
+        "text": "A",
+        "bbox": [
+          9.5,
+          683.57,
+          17.5,
+          699.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "A",
+        "bbox": [
+          1206.5,
+          683.57,
+          1214.5,
+          699.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "B",
+        "bbox": [
+          9.5,
+          485.57,
+          17.5,
+          501.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "B",
+        "bbox": [
+          1206.5,
+          485.57,
+          1214.5,
+          501.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "C",
+        "bbox": [
+          9.16,
+          287.57,
+          17.83,
+          303.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "C",
+        "bbox": [
+          1206.16,
+          287.57,
+          1214.83,
+          303.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "D",
+        "bbox": [
+          9.16,
+          89.57,
+          17.83,
+          105.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "D",
+        "bbox": [
+          1206.16,
+          89.57,
+          1214.83,
+          105.95
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "4",
+        "bbox": [
+          149.66,
+          769.07,
+          156.33,
+          785.45
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "4",
+        "bbox": [
+          149.66,
+          4.07,
+          156.33,
+          20.45
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "3",
+        "bbox": [
+          455.66,
+          769.07,
+          462.33,
+          785.45
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "3",
+        "bbox": [
+          455.66,
+          4.07,
+          462.33,
+          20.45
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "2",
+        "bbox": [
+          761.66,
+          769.07,
+          768.33,
+          785.45
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "2",
+        "bbox": [
+          761.66,
+          4.07,
+          768.33,
+          20.45
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "1",
+        "bbox": [
+          1067.66,
+          769.07,
+          1074.33,
+          785.45
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "1",
+        "bbox": [
+          1067.66,
+          4.07,
+          1074.33,
+          20.45
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 12.0
+      },
+      {
+        "text": "UNLESS OTHERWISE SPECIFIED",
+        "bbox": [
+          736.16,
+          639.72,
+          847.77,
+          649.75
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial,Bold",
+        "size": 7.0
+      },
+      {
+        "text": "DIMENSIONS ARE IN INCHES",
+        "bbox": [
+          742.76,
+          649.56,
+          841.15,
+          659.58
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial,Bold",
+        "size": 7.0
+      },
+      {
+        "text": "TOLERANCES ARE:",
+        "bbox": [
+          734.94,
+          663.15,
+          800.66,
+          672.71
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "ANGLES:",
+        "bbox": [
+          734.94,
+          672.99,
+          767.22,
+          682.54
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": ".5",
+        "bbox": [
+          771.91,
+          672.99,
+          777.75,
+          682.54
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "2 PLACE DECIMAL:",
+        "bbox": [
+          734.94,
+          682.82,
+          800.66,
+          692.37
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": ".01",
+        "bbox": [
+          805.36,
+          682.82,
+          815.08,
+          692.37
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "3 PLACE DECIMAL:",
+        "bbox": [
+          734.94,
+          692.65,
+          800.66,
+          702.21
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": ".005",
+        "bbox": [
+          805.36,
+          692.65,
+          818.97,
+          702.21
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "CASE NO.",
+        "bbox": [
+          856.42,
+          638.92,
+          880.31,
+          645.74
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 5.0
+      },
+      {
+        "text": "DRAWN",
+        "bbox": [
+          856.42,
+          666.08,
+          875.31,
+          672.91
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 5.0
+      },
+      {
+        "text": "REVIEWED",
+        "bbox": [
+          856.42,
+          684.44,
+          883.09,
+          691.26
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 5.0
+      },
+      {
+        "text": "APPROVED",
+        "bbox": [
+          856.42,
+          702.33,
+          884.2,
+          709.16
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 5.0
+      },
+      {
+        "text": "DATE",
+        "bbox": [
+          932.2,
+          655.64,
+          950.87,
+          665.2
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "APPROVALS",
+        "bbox": [
+          866.52,
+          655.64,
+          908.91,
+          665.2
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "THIRD ANGLE PROJECTION",
+        "bbox": [
+          861.6,
+          719.57,
+          955.71,
+          729.12
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "MATERIAL",
+        "bbox": [
+          730.69,
+          709.02,
+          765.69,
+          718.58
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "FINISH",
+        "bbox": [
+          730.69,
+          731.8,
+          753.63,
+          741.36
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "DO NOT SCALE DRAWING",
+        "bbox": [
+          746.25,
+          754.45,
+          834.14,
+          764.01
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "TITLE",
+        "bbox": [
+          965.38,
+          675.4,
+          984.43,
+          684.96
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "SIZE",
+        "bbox": [
+          968.43,
+          719.57,
+          983.99,
+          729.13
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "DWG NO.",
+        "bbox": [
+          991.94,
+          719.57,
+          1023.44,
+          729.13
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      },
+      {
+        "text": "REV",
+        "bbox": [
+          1176.11,
+          719.57,
+          1190.5,
+          729.13
+        ],
+        "rotation_deg": 0.0,
+        "font": "Arial",
+        "size": 7.0
+      }
+    ]
+  }
+]
