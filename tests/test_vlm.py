@@ -83,7 +83,11 @@ def run():
         markdown_text = ""
         json_data = None
         try:
-            markdown_text = result_data.markdown if hasattr(result_data, 'markdown') else str(result_data)
+            if hasattr(result_data, 'markdown'):
+                md = result_data.markdown
+                markdown_text = str(md) if not isinstance(md, str) else md
+            else:
+                markdown_text = str(result_data)
         except Exception as e:
             markdown_text = f"[markdown extraction error: {e}]"
 
