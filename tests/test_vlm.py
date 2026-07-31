@@ -73,7 +73,8 @@ def run():
         result = ocr.predict(
             input=img_path,
             max_new_tokens=4096,
-            repetition_penalty=1.2,
+            temperature=0.1,
+            top_p=0.9,
         )
 
         # Extract results
@@ -85,7 +86,12 @@ def run():
         try:
             if hasattr(result_data, 'markdown'):
                 md = result_data.markdown
-                markdown_text = str(md) if not isinstance(md, str) else md
+                if isinstance(md, dict) and 'markdown_texts' in md:
+                    markdown_text = md['markdown_texts']
+                elif isinstance(md, str):
+                    markdown_text = md
+                else:
+                    markdown_text = str(md)
             else:
                 markdown_text = str(result_data)
         except Exception as e:
