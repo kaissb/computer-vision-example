@@ -30,7 +30,7 @@ from paddleocr import PaddleOCRVL
 BASE = os.path.dirname(__file__) + "/.."
 INPUT_DIR = os.path.join(BASE, "paddleocr-vl")
 OUTPUT_DIR = os.path.join(BASE, "output", "vlm_results")
-RASTER_DPI = 150  # DPI for rasterizing PDF pages to images for the VLM
+RASTER_DPI = 200  # DPI for rasterizing PDF pages to images for the VLM
 
 
 def rasterize_page(pdf_path, page_num=0, dpi=RASTER_DPI):
@@ -74,7 +74,7 @@ def run():
         print("  Running PaddleOCR-VL...")
         result = ocr.predict(
             input=img_path,
-            max_new_tokens=2048,
+            max_new_tokens=3072,
         )
 
         # Extract results
