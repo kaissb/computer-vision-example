@@ -20,6 +20,8 @@ import json
 import os
 import glob
 
+import re
+
 import fitz  # PyMuPDF for rasterizing pages to images
 import paddle
 
@@ -72,9 +74,7 @@ def run():
         print("  Running PaddleOCR-VL...")
         result = ocr.predict(
             input=img_path,
-            max_new_tokens=4096,
-            temperature=0.1,
-            top_p=0.9,
+            max_new_tokens=2048,
         )
 
         # Extract results
@@ -101,6 +101,15 @@ def run():
             json_data = result_data.json if hasattr(result_data, 'json') else None
         except Exception:
             pass
+
+        # Detect and truncate repetition loops (model has no repetition_penalty support)
+        # Look for a pattern of 3+ consecutive repeated short tokens
+        rep_match = re.search(r'(.{3,80}?)(?:\s\1){3,}', markdown_text)
+        if rep_match:
+            repeat_start = rep_match.start()
+            repeat_token = rep_match.group(1).strip()
+            print(f"\n  ⚠️  Repetition loop detected: '{repeat_token[:40]}' repeated, truncating at char {repeat_start}")
+            markdown_text = markdown_text[:repeat_start].rstrip()
 
         # Print summary
         print(f"\n  --- Markdown output (first 2000 chars) ---")
