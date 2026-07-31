@@ -70,7 +70,11 @@ def run():
 
         # Run VLM
         print("  Running PaddleOCR-VL...")
-        result = ocr.predict(input=img_path)
+        result = ocr.predict(
+            input=img_path,
+            max_new_tokens=4096,
+            repetition_penalty=1.2,
+        )
 
         # Extract results
         result_data = result[0] if isinstance(result, list) else result
